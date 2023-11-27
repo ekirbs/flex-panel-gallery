@@ -103,17 +103,16 @@ body {
 
 
 /* HOVER EFFECTS */
-.panel:hover {
+/* .panel:hover {
   flex: 5;
   font-size: 40px;
   transition: flex 0.7s cubic-bezier(0.61, -0.19, 0.7, -0.11), font-size 0.7s cubic-bezier(0.61, -0.19, 0.7, -0.11);
 }
 
-/* Add transition effects for the hover state */
 .panel:hover > *:first-child {
   transform: translateY(0);
 }
 
 .panel:hover > *:last-child {
   transform: translateY(0);
-}
+} */
